@@ -10,9 +10,12 @@ This begin with futura font, but I will add some fonts in the future.
 ## Changes and updates
 
 - 2022-10-09: futura font.
+- 2022-10-15: more futura's and new helvetica folder.
 
 ## Disclaimer or something
 
 The main reason for this repository is that I regularly miss my fonts, and after some months when I changes my distro o computer I have to seek on some tricky pages for this or in my drives... what a waste of time, right?
 
-So, this repo have no intentions to be over the law,but if you think that some font is your propperty, send me a message and I will respond your request... some day :).
+
+So, this repo have no intentions to be over the law, but if you think that some font is your propperty, send me a message and I will respond your request... some day. :)
+
